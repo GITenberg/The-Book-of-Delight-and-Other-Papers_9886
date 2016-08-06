@@ -1,0 +1,29 @@
+_repo: The-Book-of-Delight-and-Other-Papers_9886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abrahams, Israel
+    alias: Abrahams, I. (Israel)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '2283'
+    url: http://www.gutenberg.org/2009/agents/2283
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Abrahams
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry, Hebrew -- History and criticism'
+- !lcsh 'Joseph ben Meir ibn Zabara, b. 1140? Sefer sha''ashu''im'
+- !lcsh 'Jews -- Intellectual life'
+- !lcc 'PJ'
+- GITenberg
+title: The Book of Delight and Other Papers
+url: http://www.gutenberg.org/ebooks/9886
